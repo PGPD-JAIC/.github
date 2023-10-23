@@ -1,3 +1,4 @@
+<div class="background: black;">
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2559ff&text=PGPD%20JAIC&fontColor=fffffc&height=100&section=header"/>
 </p>
@@ -20,3 +21,4 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2559ff&height=100&section=footer"/>
 </p>
+</div>
